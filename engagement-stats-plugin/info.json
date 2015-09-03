@@ -1,0 +1,8 @@
+{
+    "identifier": "Engagement Stats Plugin",
+    "name": "engagementStats",
+    "author": "arthurlustosa@outlook.com",
+    "license": "AGPLv3",
+    "description": "A plugin for add engagement stats a statstics projects.",
+    "version": "0.0.1"
+}
