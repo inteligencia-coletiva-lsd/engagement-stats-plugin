@@ -1,5 +1,5 @@
 import pybossa.cache.project_stats as project_stats
-import pybossa.stats_contribua as stats_contribua
+import stats_contribua
 from flask.ext.plugins import Plugin
 from functools import wraps
 
